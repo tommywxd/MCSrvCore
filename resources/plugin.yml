@@ -1,0 +1,16 @@
+name: MCSrv-Core
+main: cc.tommyw.mcsrv.core.Main
+version: 0.0.1
+commands:
+  create:
+    description: Create a server
+    usage: /create
+  command:
+    description: Run a command on your server
+    usage: /command
+  start:
+    description: Start your server
+    usage: /start
+  stop:
+    description: Stop your server
+    usage: /stop
